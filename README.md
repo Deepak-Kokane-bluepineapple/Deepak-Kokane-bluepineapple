@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepak-Kokane-bluepineapple
+- 👋 Hi, I’m Deepak Kokane
 - 👀 I’m interested in codding 
 - 🌱 I’m currently working 
 - 💞️ Programming 
