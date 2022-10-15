@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepak-Kokane-bluepineapple
 - 👀 I’m interested in codding 
-- 🌱 I’m currently learning Django
-- 💞️ 
+- 🌱 I’m currently working 
+- 💞️ Programming 
 - 📫 How to reach me @Deepak-Kokane-bluepineapple
 
 <!---
